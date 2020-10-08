@@ -1,4 +1,4 @@
-# Salesforce Badges
+# Typescript Boilerplate
 
 ## Project setup
 ```
